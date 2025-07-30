@@ -15,6 +15,10 @@ between what you see and what it meant to be.
 
 ## What You'll Find Here
 
+## Featured Essay
+
+[Simulated Entropy](essays/simulated-entropy.md) — on decay, simulation theory, and the designed illusion of permanence.
+
 This repository is a living archive of experimental design, mapping, and meaning-making. Expect:
 
 - Conceptual Cartography – terrain maps that speak memory, not just elevation  
