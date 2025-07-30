@@ -36,7 +36,7 @@ A defiant space for those who don’t quite fit the grid.
 
 ## Licensing & Authorship
 
-© Möbius (a.k.a. Jevan) — 2025.  
+© Möbius (a.k.a. Duncan Fraser) — 2025.  
 See `LICENSE.md` for terms. All works are original unless otherwise credited.
 
 ---
