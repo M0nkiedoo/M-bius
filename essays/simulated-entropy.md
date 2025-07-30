@@ -1,5 +1,5 @@
 # Simulated Entropy  
-*by Möbius (a.k.a. Jevan)*
+*by Möbius*
 
 > *“If this is a simulation, then why does it decay?”*
 
