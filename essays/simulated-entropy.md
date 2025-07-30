@@ -1,6 +1,8 @@
 # Simulated Entropy  
 *by Möbius*
 
+First published on Möbius, July 2025. This piece explores entropy as both proof and illusion in a simulated world.
+
 > *“If this is a simulation, then why does it decay?”*
 
 Entropy is the crack in the render. The unprogrammed glitch. The mould on the edge of the silicone world.  
